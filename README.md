@@ -1,4 +1,4 @@
-# Face Generation and Analysis with AI Models
+# Face Analysis with AI Models
 
 ## 🧠 Project Description
 
